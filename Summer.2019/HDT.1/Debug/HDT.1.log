@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\vs2015\summer.2019\hdt.1\source.cpp(75): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HDT.1.vcxproj -> D:\VS2015\Summer.2019\Debug\HDT.1.exe

@@ -1,0 +1,8 @@
+﻿  Bird.cpp
+  Source.cpp
+d:\vs2015\summer.2019\flappybird\source.cpp(13): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Wall.cpp
+d:\vs2015\summer.2019\flappybird\wall.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  FlappyBird.vcxproj -> D:\VS2015\Summer.2019\Debug\FlappyBird.exe
